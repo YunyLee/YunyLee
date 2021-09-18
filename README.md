@@ -1,4 +1,4 @@
-### 🌱 안녕하세요! 개발꿈나무 YunyLee 입니다!
+### 😄 안녕하세요! 개발꿈나무 YunyLee 입니다!
 
 <!--
 **YunyLee/YunyLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
