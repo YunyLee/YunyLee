@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YunYonng%20Lee&fontSize=90&animation=twinkling)
 
-
+https://img.shields.io/badge/-Python-FFFAFA?style=flat&logo=Python
+https://img.shields.io/badge/-Django-FFFFF0?style=flat&logo=Django
+https://img.shields.io/badge/-HTML5-DDA0DD?style=flat&logo=HTML5
+https://img.shields.io/badge/-CSS3-40E0D0?style=flat&logo=CSS3
+https://img.shields.io/badge/-SQLite-F0E68C?style=flat&logo=SQLite
