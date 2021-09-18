@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20*-*&fontSize=90&animation=twinkling)
+### 🌱 Education
+  SSAFY 6기
+
 ### 📚 Skills
 <img src = "https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"> <img src = "https://img.shields.io/badge/-Django-800000?style=flat&logo=Django"> <img src = "https://img.shields.io/badge/-HTML5-009900?style=flat&logo=HTML5"> <img src = "https://img.shields.io/badge/-CSS3-0080ff?style=flat&logo=CSS3"> <img src = "https://img.shields.io/badge/-SQLite-8977ad?style=flat&logo=SQLite"> <img src = "https://img.shields.io/badge/-Git-000000?style=flat&logo=Git">
 
