@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=YunYonng%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=YunYonng%20Lee&fontSize=90)
 
 
